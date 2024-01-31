@@ -40,6 +40,15 @@ The data modeling process involved creating a structured data warehouse design u
 2. **Compute Engine**: Hosting Mage AI for data transformation.
 3. **BigQuery**: Data warehousing for storing the transformed data.
 
+
+## 🛠️ Technologies Used
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<img src="https://user-images.githubusercontent.com/66017329/236063928-77e42e58-26aa-425f-88eb-1b46fa76fd8c.png" alt="mageai" width="70">
+
 ## 🔁 Data Transformation and Loading
 Data transformation was executed using [Mage AI](https://www.mage.ai/) on a Compute Engine VM instance, and the processed data was subsequently loaded into BigQuery for analysis.
 
