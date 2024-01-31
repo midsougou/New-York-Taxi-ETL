@@ -26,7 +26,7 @@ A comprehensive data dictionary is available [here](https://www.nyc.gov/assets/t
 
 ## 📐 Data Model
 The data modeling process involved creating a structured data warehouse design using facts and dimension tables. A final reporting layer table was created on the top. The separation makes it easier to manage like changes in business requirements often result in changes to dimensions rather than facts.
-<img src="data_model.jpg">
+<img src="diagram-data_model.png">
 
 ### 📊 Fact Tables
 - Central table in the data model, containing quantifiable data that can be measured, and analyzed about each trip, like trip duration, distance, and cost. Fact tables typically contain foreign keys that correspond to primary keys in the dimension tables.
