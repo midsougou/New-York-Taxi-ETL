@@ -3,13 +3,21 @@
 ## 📖 Project Overview
 This project involves a comprehensive analysis of New York Taxi Trips, aiming to extract insights from raw taxi trip data through data transformations and visualizations. The project leverages Google Cloud Platform (GCP) services such as Cloud Storage, Compute Engine with Mage AI, BigQuery, and Looker Studio.
 
+<p align="center">
+  <img src="overview_dashboard.png" alt="Looker Studio Dashboard Snapshot">
+</p>
+
+<p align="center">
+  <a href="https://lookerstudio.google.com/s/hz9n6wPQ8CA" target="_blank">Looker Dashboard</a>
+</p>
+
 ## Architecture 
 The overview of the process to transform the data and make it available for analysis
 <a href="https://lookerstudio.google.com/s/hz9n6wPQ8CA" target="_blank">Looker Dashboard</a>
 
 
 ## 🌐 Data Source
-The raw data for this project is sourced <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page" target="_blank">HERE</a>. This dataset includes detailed records of taxi trips in New York City.
+The raw data for this project is sourced <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page" target="_blank">here/a>. This dataset includes detailed records of taxi trips in New York City.
 
 ### 📚 Data Dictionary
 A comprehensive data dictionary is available [here](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf).
@@ -42,5 +50,5 @@ A dashboard was designed in Looker Studio to visualize insights from the taxi tr
 ### 📸 Dashboard Snapshots
 - ![Snapshot 1](overview_dashboard.png)
 - ![Snapshot 2](analysis_dashboard.png)
-- ![Snapshot 3](mqge_etl.png)
+- ![Snapshot 3](mage_etl.png)
 
