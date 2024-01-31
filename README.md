@@ -15,7 +15,7 @@ This project involves a comprehensive analysis of New York Taxi Trips, aiming to
 
 ## 🏛️ Architecture 
 The overview of the process to transform the data and make it available for analysis
-(nyc-taxi-dataflow.svg)
+![Data Flow Diagram](nyc-taxi-dataflow.svg)
 
 
 ## 🌐 Data Source
