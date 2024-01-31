@@ -10,7 +10,7 @@ This project involves a comprehensive analysis of New York Taxi Trips, aiming to
 </p>
 
 <p align="center">
-  <a href="https://lookerstudio.google.com/s/hz9n6wPQ8CA" target="_blank">Looker Dashboard</a>
+  <a href="https://lookerstudio.google.com/reporting/c83c7427-061a-487e-9899-4ebdb222cffe" target="_blank">Looker Dashboard</a>
 </p>
 
 ## 🏛️ Architecture 
